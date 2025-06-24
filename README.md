@@ -18,3 +18,13 @@
 5. Evaluated using **Accuracy**, **Precision**, **Recall**, and **F1-Score** to benchmark improvements.
 
 
+
+**Phase-03: Advanced Model Optimization with Transformers**
+
+1. Leveraged the preprocessed and balanced dataset from **Phase-02** for advanced transformer-based modeling.
+2. Integrated **BEaRT-RoBERTa** and **DeepSeek** transformer models for deeper semantic understanding and improved generalization.
+3. Applied **fine-tuning** on the labeled dataset using transformer-specific training pipelines with early stopping and learning rate schedulers.
+4. Evaluated model performance using **Accuracy**, **Precision**, **Recall**, and **F1-Score**, achieving consistent scores of **90% and above** across all metrics.
+5. Benchmarked results against Phase-02 models to confirm **significant improvement in contextual classification performance**.
+
+
